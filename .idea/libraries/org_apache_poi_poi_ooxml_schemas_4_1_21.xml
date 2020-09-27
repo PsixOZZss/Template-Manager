@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.apache.poi:poi-ooxml-schemas:4.1.21" type="repository">
+    <properties maven-id="org.apache.poi:poi-ooxml-schemas:4.1.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml-schemas/4.1.2/poi-ooxml-schemas-4.1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
